@@ -1,6 +1,6 @@
 flask==3.0.3
 flask-cors==4.0.1
-google-generativeai==0.7.2
+google-genai
 beautifulsoup4==4.12.3
 lxml==5.2.2
 requests==2.32.3
